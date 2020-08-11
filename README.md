@@ -3,13 +3,13 @@ create database with the name **node_js_crud**
 create a table with the name  **student** 
 
 ##### Get API 
-      /ap/get
+      /api/get
 
 ##### Insert API 
-      /ap/post
+      /api/post
 
 ##### Update API 
-      /ap/put
+      /api/put
 
 ##### Delete API 
-      /ap/delete
+      /api/delete
